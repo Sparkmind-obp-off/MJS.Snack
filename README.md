@@ -8,13 +8,13 @@ Demo pengalaman digital untuk **Mitra Jaya Snack (MJS)** yang memvisualkan alur:
 
 ## Status
 
-- **Tahap:** MVP portfolio demo selesai
+- **Tahap:** MVP portfolio demo selesai dan aktif
 - **Platform:** Cloudflare Pages
 - **Stack:** TypeScript, Vite, HTML semantik, CSS, Playwright
 - **Penyimpanan:** `localStorage` browser hanya untuk draft inquiry
 - **Database/backend:** Tidak digunakan
 - **Repository:** https://github.com/Sparkmind-obp-off/MJS.Snack
-- **Produksi:** direncanakan di https://mjs-snack-demo.pages.dev
+- **Produksi:** https://mjs-snack-demo.pages.dev
 - **Terakhir diperbarui:** 2026-09-14
 
 ## Fitur yang Selesai
